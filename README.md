@@ -11,7 +11,8 @@
 
 *БЛОК-СХЕМА:*
 
-(https://user-images.githubusercontent.com/119866965/209633556-9b285448-d104-458b-b30a-461d655472c3.png)
+![bs](https://user-images.githubusercontent.com/119866965/209635876-6583bdbc-d722-4635-bf26-f1bf8180afd6.png)
+
 
 *ПРОГРАММА:*
 
